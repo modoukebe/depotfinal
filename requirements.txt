@@ -1,0 +1,10 @@
+geemap
+os
+ee
+geemap
+ipywidgets 
+import pyplot
+WidgetControl
+subprocess
+gunicorn==19.7.1
+psycopg2==2.5.3
